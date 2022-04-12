@@ -21,3 +21,6 @@
 4. topic: **Local DNS attack**
 5. demo: **12 APRIL 2022**
 6. future: **remote DNS attack**
+
+### Environments: 
+working on Windows (with VirtualBox and VM) and Mac M1 (remote Google cloud instance)
