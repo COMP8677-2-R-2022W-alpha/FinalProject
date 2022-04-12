@@ -24,3 +24,6 @@
 
 ### Environments: 
 working on Windows (with VirtualBox and VM) and Mac M1 (remote Google cloud instance)
+
+### Updates:
+1. 12 APRIL 2022: Added novelty to detect the local DNS attack
